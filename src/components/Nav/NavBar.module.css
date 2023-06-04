@@ -1,0 +1,52 @@
+.container {
+    display:contents;
+    justify-content:baseline;
+    align-items:normal;
+    background-color: #c70404;
+    padding: 5px;
+    color: #3a2b2b;
+    margin-top:20%;
+    cursor: pointer;
+  }
+  
+  .container a {
+    color: #21087e;
+    font-size:220%;
+    font-weight:bold;
+    text-decoration:dotted;
+    font-style: normal;
+    margin-top:0.2%;
+    margin-right:5px;
+    cursor: pointer;
+  }
+  
+  .container a:hover {
+    text-decoration:double;
+  }
+   
+  .container .logout{
+    height: 20px;
+    background-color: rgb(229, 240, 134);
+    border-radius: 5px;
+    color: rgb(22, 21, 21);
+    cursor: pointer;
+  }
+
+  .container.favorites{
+    height: 20px;
+    background-color: rgb(229, 240, 134);
+    border-radius: 5px;
+    color: rgb(22, 21, 21);
+    cursor: pointer;
+    }
+ 
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  

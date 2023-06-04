@@ -1,0 +1,15 @@
+https://github.com/adrifok/Henry-Module-2/blob/main/06-React-Intro/homework/02%20-%20Integration/README.md
+
+
+FT33A React Intro CR Jorge Vega
+https://www.students.soyhenry.com/classes/14?cohortId=86&videoOrdinal=2
+
+min 59
+----------------------------------------------
+mi rick & morty app
+App.js
+linea 36 const username = 'yo@gmail.com';
+linea 37 const password = '123456';
+
+----------------------------------------------
+FT33b CR 2-Integration

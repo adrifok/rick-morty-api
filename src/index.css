@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  background-image: url('https://wallpapercave.com/wp/wp1822750.png');
+  -moz-osx-font-smoothing: rgb(249, 250, 248);
+  -webkit-font-smoothing: antialiased;
+  background-size:cover;
+}
+
+code {
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    monospace;
+}

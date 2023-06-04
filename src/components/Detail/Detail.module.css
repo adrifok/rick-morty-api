@@ -1,0 +1,45 @@
+
+.detail{
+margin-top: 80px;
+display:flex ;
+}
+
+.txt{
+  color:aliceblue;
+  margin-left: 10px;
+  text-decoration: none;
+  }
+
+  .bttn{
+    display: flex;
+    justify-content: flex-end;
+    cursor: pointer;
+  }
+
+  .volver {
+    position: relative;
+    border: solid 0px;
+    cursor: pointer;
+    text-shadow: 0px 1px rgba(187, 34, 34, 0.2);
+    text-align: center;
+    text-decoration: none;
+    color: #080808;
+    background: #131414;
+    box-shadow: 0px 5px 0px 0px #293241;
+    padding: 7px 20px;
+    border-radius: 100px;
+    margin: 10px 5px;
+    float: right;
+  }
+  
+  .volver:hover {
+    top: 2px;
+  }
+  .image{
+    width: 20%;
+    height: auto;
+    margin-right: 60%;
+
+  }
+  
+ 

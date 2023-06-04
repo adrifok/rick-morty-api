@@ -1,0 +1,78 @@
+.sobreMi, .masabajo2 {
+    display: block;
+    text-align: center;
+    align-items: center;
+    margin-top: 40px;
+  }
+  
+  .sobreMi h1,
+  .masabajo2 h1 {
+    color: #ce5109;
+    display: contents;
+    font-weight: 900;
+    font-size: 72pt;
+  }
+  
+  .masabajo2 h1 {
+    width: 100%;
+    display: block;
+  }
+  
+  .masabajo2 a {
+    font-size: 20pt;
+    display: inline-block;
+  
+    margin-top: 100px;
+  }
+  
+  .sobreMi h2,
+  .masabajo2 h2 {
+    font-size: 15pt !important;
+    color: #813604;
+  }
+  
+  .sobreMi img {
+    width: 300px;
+    float: left;
+  }
+  
+  .sobreMi p {
+    font-size: 16pt;
+    color: #3917be;
+    text-align: justify;
+    float: right;
+    padding: 25px 0;
+    max-width: 57%;
+  }
+  
+  .volver {
+    position: relative;
+    border: solid 0px;
+    cursor: pointer;
+    text-shadow: 0px 1px rgba(187, 34, 34, 0.2);
+    text-align: center;
+    text-decoration: none;
+    color: #080808;
+    background: #131414;
+    box-shadow: 0px 5px 0px 0px #293241;
+    padding: 7px 20px;
+    border-radius: 100px;
+    margin: 10px 5px;
+    float: right;
+  }
+  
+  .volver:hover {
+    top: 2px;
+  }
+  .imagen1{
+    width: 200px;
+    display: block;
+  }
+  
+  .masabajo3{
+    margin-top: 200px;
+  }
+  
+  .masabajo3 form{margin-top: 50px;}
+  
+  .danger{color: red; font-weight: bold;}
