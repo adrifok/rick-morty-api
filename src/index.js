@@ -7,13 +7,16 @@ import { Provider } from 'react-redux';
 import store from './components/redux/store';
 //import { createRoot } from 'react-dom/client';
 
-ReactDOM.render(
-  <Provider store = {store}> 
-<BrowserRouter>
-  <App />,
-  </BrowserRouter>
-  </Provider>,
-  document.getElementById('root')
+
+  ReactDOM.render(
+    <Provider store={store}>
+      <BrowserRouter>
+        <App />
+      </BrowserRouter>
+    </Provider>,
+    document.getElementById('root'),
+    () => {
+      console.log('App is running on http://0.0.0.0:8080');
+    }
   );
- 
   
