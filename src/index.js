@@ -16,7 +16,7 @@ import store from './components/redux/store';
     </Provider>,
     document.getElementById('root'),
     () => {
-      console.log('App is running on http://0.0.0.0:8080');
+      console.log('App is running on localhost 3000');
     }
   );
   
